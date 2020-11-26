@@ -6,7 +6,7 @@
 name: amppwa.app
 
 # Short bio or description (displayed in the header)
-description: dev site for my progressive web apps, with or without amp technology 
+description: dev site for my progressive web apps  heavy on PWA tech, easy on AMP 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
