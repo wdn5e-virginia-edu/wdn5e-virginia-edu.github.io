@@ -35,7 +35,7 @@ Succeeding amppwa.app posts, sample code, and working apps build upon these idea
 There may be more PWA than AMP.  I will try for freely usable code.
 
 * Search again every other week or so for new posts here or apps.
-* Or to save that bother, [let me know](mail:niebel@virginia.edu) to send you brief mail without ad content at each post or app update.
+* Or to save that bother, [let me know](mailto:niebel@virginia.edu) to send you brief mail without ad content at each post or app update.
 * In an early upcoming post, I'll try to work web **Notifications** and **Web Push** into my service worker/s 
   * to make it easier for you to keep tabs on this work
 
