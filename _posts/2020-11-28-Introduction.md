@@ -4,7 +4,7 @@ title: Intro
 ---
 
 Progressive Web Apps involve javascript and several other standard web technologies:
-* *scope* to associate a PWA with its origin and optionally to coordinate several PWAs from the same origin
+* **scope** to associate a PWA with its origin and optionally to coordinate several PWAs from the same origin
 * PWA-centric *cache* of app assets (the images and other resources needed by the web app)
   * to ensure offline availability
   * in API-accessible storage
