@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+This is basically use web technologies to build apps with
+* functionality expected of native apps, and 
+* appearance and performance which is more sporty than clunky
 I've worked various information technology jobs, mostly at the University of Virginia in its
 * Advanced Technology Group (ad hoc projects)
 * Scholarly Technology group (UVACollab support)
@@ -11,7 +14,6 @@ I've worked various information technology jobs, mostly at the University of Vir
 * The Institute for Advanced Technology in the Humanities (IATH)
 
 
-### Contact me
+### Drop a note to express interest in this or future posts or apps
 
-Bill Niebel
-[niebel@virginia.edu](mailto:niebel@virginia.edu)
+[interest@amppwa.app](mailto:interest@amppwa.app)
